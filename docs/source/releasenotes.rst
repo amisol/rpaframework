@@ -4,6 +4,10 @@ Release notes
 Upcoming release
 ----------------
 
+- Library **RPA.Desktop.Windows**:
+
+  - Keyword ``Open File`` return type changed (*NOTE*: backwards compatibility breaking change)
+
 7.6.0
 -----
 
